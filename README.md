@@ -1,16 +1,77 @@
-## Hi there 👋
+# Olá, eu sou o Renato Bezerra 👋
 
-<!--
-**renatojuniordw/renatojuniordw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Engenheiro de Software | Front-end (React, Angular, Next.js) & IA Generativa Aplicada**
 
-Here are some ideas to get you started:
+Paulista, Pernambuco, Brasil · +7 anos de experiência
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente construindo produtos autorais no **[Unificando](https://unificando.com.br)** — laboratório de P&D onde levo ideias da arquitetura à operação
+- 🤖 Trabalhando com **IA aplicada de verdade**: agentes, RAG, embeddings locais, engenharia de prompts e automação com n8n
+- 🎓 Pós-graduado em **Arquitetura de Software (FIAP)** e certificado Microsoft (HTML5, JavaScript e CSS3)
+- 💬 Ask me about: React, Angular, Next.js, arquitetura de software e IA Generativa
+- 📫 Me chame no [LinkedIn](https://linkedin.com/in/renato-bezerra) ou por e-mail: renato-bgs@live.com
+
+---
+
+## 🚀 Projetos em destaque
+
+### [Radar Unificando](https://radar.unificando.com.br) · [código](https://github.com/renatojuniordw/radar-unificando)
+Job board com **busca de vagas em tempo real** (Gupy via MCP oficial + InHire) e **assistente de carreira com IA**: score ATS 0-100, currículo adaptado por vaga, carta de apresentação e simulação de entrevista. Defesa contra prompt injection em 3 camadas e LGPD por design.
+
+### [Med Unificando](https://med.unificando.com.br) · [código](https://github.com/renatojuniordw/med-unificando)
+**Busca semântica em linguagem natural** sobre medicamentos intercambiáveis da ANVISA, com **embeddings 100% locais** (ONNX) — nenhum dado de busca trafega para APIs externas. Preços CMED, árvore ATC e exportação CSV/Excel/PDF.
+
+### [Unificando PDF](https://pdf.unificando.com.br) · [código](https://github.com/renatojuniordw/pdf-unificando)
+Suíte com **16 ferramentas de PDF** e **privacidade por design**: processamento efêmero, sem persistência de arquivos e sem cadastro. Engine híbrida TypeScript + binários nativos (Ghostscript, LibreOffice, Poppler, qpdf).
+
+### [promptcraft-unificando](https://github.com/renatojuniordw/promptcraft-unificando) · [npm](https://www.npmjs.com/package/promptcraft-unificando)
+CLI de engenharia de prompt instalável via `npx` — transforma texto cru em um prompt profissional pronto para pipe em Claude Code, Gemini CLI e afins. Do design à publicação no npm.
+
+### [Oferticando](https://oferticando.com.br)
+Plataforma de ofertas e cupons, construída de ponta a ponta: front-end, arquitetura e operação.
+
+> 🌐 Portfólio completo com detalhes, estudos de caso e certificações: **[renatobezerra.com.br](https://renatobezerra.com.br)**
+
+---
+
+## ⚡ Tecnologias
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge)
+![Agentes de IA](https://img.shields.io/badge/Agentes_de_IA-FF6F00?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00A9E0?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+<a href="https://github.com/renatojuniordw">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=renatojuniordw&show_icons=true&rank_icon=github&theme=github_dark" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=renatojuniordw&show_icons=true&rank_icon=github&theme=default" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=renatojuniordw&layout=compact&theme=github_dark" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatojuniordw&layout=compact&theme=default" />
+  </picture>
+</a>
+
+---
+
+## 📫 Vamos conversar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renato-bezerra)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-renatobezerra.com.br-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://renatobezerra.com.br)
+[![E-mail](https://img.shields.io/badge/E--mail-renato--bgs@live.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renato-bgs@live.com)
+[![GitHub](https://img.shields.io/badge/GitHub-renatojuniordw-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renatojuniordw)
+
+<!-- Sugestão de pins (Customize your pins): radar-unificando, med-unificando, pdf-unificando, promptcraft-unificando, portfolio-ui, ui-ariano-suassuna -->
