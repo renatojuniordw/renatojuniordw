@@ -27,9 +27,6 @@ Suíte com **16 ferramentas de PDF** e **privacidade por design**: processamento
 ### [promptcraft-unificando](https://github.com/renatojuniordw/promptcraft-unificando) · [npm](https://www.npmjs.com/package/promptcraft-unificando)
 CLI de engenharia de prompt instalável via `npx` — transforma texto cru em um prompt profissional pronto para pipe em Claude Code, Gemini CLI e afins. Do design à publicação no npm.
 
-### [Oferticando](https://oferticando.com.br)
-Plataforma de ofertas e cupons, construída de ponta a ponta: front-end, arquitetura e operação.
-
 > 🌐 Portfólio completo com detalhes, estudos de caso e certificações: **[renatobezerra.com.br](https://renatobezerra.com.br)**
 
 ---
