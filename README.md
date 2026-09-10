@@ -21,18 +21,23 @@ Meu maior projeto: um laboratório de P&D com várias ferramentas no ar, da arqu
 🔗 **[unificando.com.br](https://unificando.com.br)** · **[GitHub da organização](https://github.com/Unificando)**
 
 #### [Radar Unificando](https://radar.unificando.com.br) · [código](https://github.com/renatojuniordw/radar-unificando)
+
 Job board com **busca de vagas em tempo real** (Gupy via MCP oficial + InHire) e **assistente de carreira com IA**: score ATS 0-100, currículo adaptado por vaga, carta de apresentação e simulação de entrevista. Defesa contra prompt injection em 3 camadas e LGPD por design.
 
 #### [Med Unificando](https://med.unificando.com.br) · [código](https://github.com/renatojuniordw/med-unificando)
+
 **Busca semântica em linguagem natural** sobre medicamentos intercambiáveis da ANVISA, com **embeddings 100% locais** (ONNX) — nenhum dado de busca trafega para APIs externas. Preços CMED, árvore ATC e exportação CSV/Excel/PDF.
 
-#### [Unificando PDF](https://pdf.unificando.com.br) · [código](https://github.com/renatojuniordw/pdf-unificando)
+#### [PDF Unificando](https://pdf.unificando.com.br) · [código](https://github.com/renatojuniordw/pdf-unificando)
+
 Suíte com **16 ferramentas de PDF** e **privacidade por design**: processamento efêmero, sem persistência de arquivos e sem cadastro. Engine híbrida TypeScript + binários nativos (Ghostscript, LibreOffice, Poppler, qpdf).
 
 #### [promptcraft-unificando](https://github.com/renatojuniordw/promptcraft-unificando) · [npm](https://www.npmjs.com/package/promptcraft-unificando)
+
 CLI de engenharia de prompt instalável via `npx` — transforma texto cru em um prompt profissional pronto para pipe em Claude Code, Gemini CLI e afins. Do design à publicação no npm.
 
 #### [prompts-unificando](https://github.com/renatojuniordw/prompts-unificando) · [npm](https://www.npmjs.com/package/prompts-unificando)
+
 Biblioteca e CLI de prompts padronizados para auditoria de código, segurança/LGPD, testes e revisão de copy — agnóstica de stack e de LLM.
 
 > Casos completos de **Unificando: IA & Automação** e **Vitrine Digital** no portfólio.
