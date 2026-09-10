@@ -1,13 +1,14 @@
 # Olá, eu sou o Renato Bezerra 👋
 
-**Engenheiro de Software | Front-end (React, Angular, Next.js) & IA Generativa Aplicada**
+**Engenheiro de Software** · IA aplicada à engenharia de software & automação · Front-end (React, Angular, Next.js)
 
 Paulista, Pernambuco, Brasil · +7 anos de experiência
 
-- 🔭 Atualmente construindo produtos autorais no **[Unificando](https://unificando.com.br)** — laboratório de P&D onde levo ideias da arquitetura à operação
-- 🤖 Trabalhando com **IA aplicada de verdade**: agentes, RAG, embeddings locais, engenharia de prompts e automação com n8n
+- 🔭 Atualmente no **[Unificando](https://unificando.com.br)** — laboratório de P&D onde levo produtos autorais da arquitetura à operação
+- 🤖 Foco atual em **IA aplicada de verdade**: agentes, RAG, embeddings locais, engenharia de prompts e automação com n8n
+- 🏗️ **Base de engenharia**: +7 anos em front-end (React, Angular, Next.js), arquitetura de sistemas e integração
 - 🎓 Pós-graduado em **Arquitetura de Software (FIAP)** e certificado Microsoft (HTML5, JavaScript e CSS3)
-- 💬 Ask me about: React, Angular, Next.js, arquitetura de software e IA Generativa
+- 💬 Ask me about: arquitetura de software, IA aplicada (agentes, RAG), automação — e front-end com React, Angular e Next.js
 - 📫 Me chame no [LinkedIn](https://linkedin.com/in/renato-bezerra) ou por e-mail: renato-bgs@live.com
 
 ---
@@ -35,13 +36,6 @@ Plataforma de ofertas e cupons, construída de ponta a ponta: front-end, arquite
 
 ## ⚡ Tecnologias
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -49,6 +43,13 @@ Plataforma de ofertas e cupons, construída de ponta a ponta: front-end, arquite
 ![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge)
 ![Agentes de IA](https://img.shields.io/badge/Agentes_de_IA-FF6F00?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00A9E0?style=for-the-badge)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
