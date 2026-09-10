@@ -4,7 +4,7 @@
 
 Paulista, Pernambuco, Brasil · +7 anos de experiência
 
-- 🔭 Atualmente no **[Unificando](https://unificando.com.br)** — laboratório de P&D onde levo produtos autorais da arquitetura à operação
+- 🔭 Atualmente no **[Unificando](https://unificando.com.br)** ([org no GitHub](https://github.com/Unificando)) — laboratório de P&D onde levo produtos autorais da arquitetura à operação
 - 🤖 Foco atual em **IA aplicada de verdade**: agentes, RAG, embeddings locais, engenharia de prompts e automação com n8n
 - 🏗️ **Base de engenharia**: +7 anos em front-end (React, Angular, Next.js), arquitetura de sistemas e integração
 - 🎓 Pós-graduado em **Arquitetura de Software (FIAP)** e certificado Microsoft (HTML5, JavaScript e CSS3)
@@ -13,19 +13,37 @@ Paulista, Pernambuco, Brasil · +7 anos de experiência
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos
 
-### [Radar Unificando](https://radar.unificando.com.br) · [código](https://github.com/renatojuniordw/radar-unificando)
+### 🧪 Unificando — laboratório de produtos
+
+Meu maior projeto: um laboratório de P&D com várias ferramentas no ar, da arquitetura à operação.
+🔗 **[unificando.com.br](https://unificando.com.br)** · **[GitHub da organização](https://github.com/Unificando)**
+
+#### [Radar Unificando](https://radar.unificando.com.br) · [código](https://github.com/renatojuniordw/radar-unificando)
 Job board com **busca de vagas em tempo real** (Gupy via MCP oficial + InHire) e **assistente de carreira com IA**: score ATS 0-100, currículo adaptado por vaga, carta de apresentação e simulação de entrevista. Defesa contra prompt injection em 3 camadas e LGPD por design.
 
-### [Med Unificando](https://med.unificando.com.br) · [código](https://github.com/renatojuniordw/med-unificando)
+#### [Med Unificando](https://med.unificando.com.br) · [código](https://github.com/renatojuniordw/med-unificando)
 **Busca semântica em linguagem natural** sobre medicamentos intercambiáveis da ANVISA, com **embeddings 100% locais** (ONNX) — nenhum dado de busca trafega para APIs externas. Preços CMED, árvore ATC e exportação CSV/Excel/PDF.
 
-### [Unificando PDF](https://pdf.unificando.com.br) · [código](https://github.com/renatojuniordw/pdf-unificando)
+#### [Unificando PDF](https://pdf.unificando.com.br) · [código](https://github.com/renatojuniordw/pdf-unificando)
 Suíte com **16 ferramentas de PDF** e **privacidade por design**: processamento efêmero, sem persistência de arquivos e sem cadastro. Engine híbrida TypeScript + binários nativos (Ghostscript, LibreOffice, Poppler, qpdf).
 
-### [promptcraft-unificando](https://github.com/renatojuniordw/promptcraft-unificando) · [npm](https://www.npmjs.com/package/promptcraft-unificando)
+#### [promptcraft-unificando](https://github.com/renatojuniordw/promptcraft-unificando) · [npm](https://www.npmjs.com/package/promptcraft-unificando)
 CLI de engenharia de prompt instalável via `npx` — transforma texto cru em um prompt profissional pronto para pipe em Claude Code, Gemini CLI e afins. Do design à publicação no npm.
+
+#### [prompts-unificando](https://github.com/renatojuniordw/prompts-unificando) · [npm](https://www.npmjs.com/package/prompts-unificando)
+Biblioteca e CLI de prompts padronizados para auditoria de código, segurança/LGPD, testes e revisão de copy — agnóstica de stack e de LLM.
+
+> Casos completos de **Unificando: IA & Automação** e **Vitrine Digital** no portfólio.
+
+### 🧩 Outros projetos
+
+- **[Maria Clara Santos](https://mariaclarasantos.adv.br)** · [código](https://github.com/renatojuniordw/portfolio-maria-clara) — landing de alta conversão para advocacia com sistema anti-golpe integrado.
+- **[Seu Barraco Esperto](https://instagram.com/seubarracoesperto)** — automação residencial prática com Alexa e IoT, com canal de conteúdo próprio.
+- **[Sistema 18IA](https://18ia.meucria.com.br)** — landing de alta conversão para produto digital técnico, com copy em linguagem de dev.
+- **[Ariano Suassuna — Tributo](https://ariano-suassuna.unificando.com.br)** · [código](https://github.com/renatojuniordw/ui-ariano-suassuna) — site educacional sobre a vida e obra de Ariano Suassuna.
+- **[Diego Sheik — Mídia Kit](https://sheik.unificando.com.br)** · [código](https://github.com/renatojuniordw/sheik-mediakit) — mídia kit interativo com métricas reais de audiência para marcas.
 
 > 🌐 Portfólio completo com detalhes, estudos de caso e certificações: **[renatobezerra.com.br](https://renatobezerra.com.br)**
 
@@ -71,5 +89,6 @@ CLI de engenharia de prompt instalável via `npx` — transforma texto cru em um
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-renatobezerra.com.br-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://renatobezerra.com.br)
 [![E-mail](https://img.shields.io/badge/E--mail-renato--bgs@live.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renato-bgs@live.com)
 [![GitHub](https://img.shields.io/badge/GitHub-renatojuniordw-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renatojuniordw)
+[![Unificando](https://img.shields.io/badge/GitHub_Org-Unificando-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Unificando)
 
 <!-- Sugestão de pins (Customize your pins): radar-unificando, med-unificando, pdf-unificando, promptcraft-unificando, portfolio-ui, ui-ariano-suassuna -->
