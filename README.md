@@ -73,21 +73,6 @@ Biblioteca e CLI de prompts padronizados para auditoria de código, segurança/L
 
 ---
 
-## 📊 GitHub Stats
-
-<a href="https://github.com/renatojuniordw">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=renatojuniordw&show_icons=true&rank_icon=github&theme=github_dark" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=renatojuniordw&show_icons=true&rank_icon=github&theme=default" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=renatojuniordw&layout=compact&theme=github_dark" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatojuniordw&layout=compact&theme=default" />
-  </picture>
-</a>
-
----
-
 ## 📫 Vamos conversar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renato-bezerra)
