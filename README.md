@@ -32,11 +32,11 @@ Job board com **busca de vagas em tempo real** (Gupy via MCP oficial + InHire) e
 
 Suíte com **16 ferramentas de PDF** e **privacidade por design**: processamento efêmero, sem persistência de arquivos e sem cadastro. Engine híbrida TypeScript + binários nativos (Ghostscript, LibreOffice, Poppler, qpdf).
 
-#### [promptcraft-unificando](https://github.com/renatojuniordw/promptcraft-unificando) · [npm](https://www.npmjs.com/package/promptcraft-unificando)
+#### [@unificando/refina](https://github.com/Unificando/refina) · [npm](https://www.npmjs.com/package/@unificando/refina)
 
-CLI de engenharia de prompt instalável via `npx` — transforma texto cru em um prompt profissional pronto para pipe em Claude Code, Gemini CLI e afins. Do design à publicação no npm.
+CLI de engenharia de prompt instalável via `npx` — transforma texto cru em um prompt profissional pronto para pipe em Claude Code, Gemini CLI e afins. Do design à publicação no npm e no GitHub Packages da org.
 
-#### [prompts-unificando](https://github.com/renatojuniordw/prompts-unificando) · [npm](https://www.npmjs.com/package/prompts-unificando)
+#### [@unificando/prompts](https://github.com/Unificando/prompts) · [npm](https://www.npmjs.com/package/@unificando/prompts)
 
 Biblioteca e CLI de prompts padronizados para auditoria de código, segurança/LGPD, testes e revisão de copy — agnóstica de stack e de LLM.
 
@@ -81,4 +81,4 @@ Biblioteca e CLI de prompts padronizados para auditoria de código, segurança/L
 [![GitHub](https://img.shields.io/badge/GitHub-renatojuniordw-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renatojuniordw)
 [![Unificando](https://img.shields.io/badge/GitHub_Org-Unificando-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Unificando)
 
-<!-- Sugestão de pins (Customize your pins): radar-unificando, med-unificando, pdf-unificando, promptcraft-unificando, portfolio-ui, ui-ariano-suassuna -->
+<!-- Sugestão de pins (Customize your pins): radar-unificando, med-unificando, pdf-unificando, Unificando/refina, Unificando/prompts, portfolio-ui, ui-ariano-suassuna -->
